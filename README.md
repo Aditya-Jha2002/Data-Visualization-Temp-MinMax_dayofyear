@@ -1,5 +1,5 @@
 # Data-Visualization-Temp-MinMax_dayofyear
-matplotlib used to create a data visualisation of a line graph of the record high and record low temperatures by year over the period 2005-2014 using dayofyear as x axis label
+Using matplotlib to visualise a line graph of the record high and record low temperatures by year over the period 2005-2014 using dayofyear as the x axis label
 
 ## Data
 The data file that we are using is fb441e62df2d58994928907a91895ec62c2c42e6cd075c2700843b89.csv which is as subset of The National Centers for Environmental Information (NCEI) Daily Global Historical Climatology Network (GHCN-Daily)
@@ -12,6 +12,7 @@ The variable used are
 * TMIN : Minimum temperature (tenths of degrees C) 
 * value : data value for element (tenths of degrees C)
 
+## Final Outcome
 ![](img.png)
 
 
