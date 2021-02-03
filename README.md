@@ -11,3 +11,5 @@ The variable used are
 * TMAX : Maximum temperature (tenths of degrees C) 
 * TMIN : Minimum temperature (tenths of degrees C) 
 * value : data value for element (tenths of degrees C)
+
+[](img.png)
