@@ -12,4 +12,6 @@ The variable used are
 * TMIN : Minimum temperature (tenths of degrees C) 
 * value : data value for element (tenths of degrees C)
 
-[](img.png)
+![](img.png)
+
+
